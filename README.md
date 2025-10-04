@@ -1,58 +1,58 @@
-<!-- Profile Banner -->
-<img src="https://i.ibb.co/k4DWjTm/blacktech-banner.gif" width="100%">
+# 👋 Hey there, I'm Max  
 
-# 🕶️ Max — Tech | Anime | Cybersecurity  
-
-> “The quiet ones observe, learn, and build while the world sleeps.”  
-
----
-
-### 🧠 About Me  
-💻 Tech enthusiast & cybersecurity learner  
-⚙️ Passionate about AI, ethical hacking, and creative automation  
-🎌 Learning Japanese while exploring Linux  
-🚀 Dream: Build powerful yet simple tech that helps people  
-🌙 Motto: *Discipline over mood, silence over noise*
+💻 **AI & Cybersecurity Enthusiast**  
+⚙️ Passionate about **automation, Linux, and building creative tools**  
+🎯 Currently learning: **Python | Cybersecurity | Japanese**  
+🚀 Dream: Build tech that protects, empowers, and inspires people  
 
 ---
 
-### ⚔️ Tech Arsenal
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?logo=visualstudiocode&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Security-EF4444?logo=probot&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI-8A2BE2?logo=openai&logoColor=white)
+### 📖 About Me
+Yo, I’m Muhammad Usman AKA Wizmax. I’m into tech, anime, cybersecurity and sometimes I like to write and imagine fantasy worlds.
 
 ---
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=wizmax&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizmax&layout=compact&theme=tokyonight&hide_border=true)
+### 🧰 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-0078D4?logo=visualstudiocode&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-111827?logo=probot&logoColor=white)
+![AI](https://img.shields.io/badge/-Artificial_Intelligence-9333EA?logo=openai&logoColor=white)
 
 ---
 
-### 🧩 Current Focus
-- 🧠 Google Cybersecurity Certificate  
-- 🐍 Python projects & automation  
-- 🎮 Anime-inspired UI & minimal design  
-- 💡 Building a secure local e-commerce app  
+### 📊 GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wizmax11&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizmax11&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-### 💬 Contact & Links
-🌐 [Website](https://wizmax.pro)  
-📧 `max@wizmax.pro` (optional if you want)  
-📷 [YouTube – @wizeditz77](https://www.youtube.com/@wizeditz77)  
-🐦 [Twitter/X – @wizmax77](#)  
-🧰 [TryHackMe](https://tryhackme.com/p/wizmax)
+### 🎯 Current Goals
+- 📖 Complete **Google Cybersecurity Certificate**  
+- 🚀 Build real-world **Python automation tools**  
+- 🗼 Learn **Japanese**  
+- ⚡ Stay consistent and grow daily - **Hardest One AHh!**
 
 ---
 
-### 🧘 Final Line
-> “No noise, no rush — just consistency, faith, and power.”  
+<h3 align="center">🌙 Motto</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=wizmax&color=blue&style=for-the-badge)
+<div align="center" style="background-color:#0d1117; border-radius:10px; padding:15px; border:1px solid #2f3136;">
 
+<b>“Let’s learn everything — and reflect on the magnificent creation of <span style="color:#38bdf8;">Allah ﷻ</span>.”</b>
 
+---
+
+<i>
+"Indeed, in the creation of the heavens and the earth  
+and the alternation of the night and the day  
+are signs for those of understanding."
+</i>  
+<br>— <b>Qur’an 3:190</b>
+
+</div>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=wizmax11&color=blue&style=for-the-badge)
